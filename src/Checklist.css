@@ -1,0 +1,32 @@
+.checklist {
+    text-align: left;
+    padding: 20px;
+}
+
+.category {
+    margin-bottom: 20px;
+}
+
+.category h2 {
+    color: #61dafb;
+    font-size: 60px;
+}
+
+ul {
+    font-size: 40px;
+    list-style-type: none;
+    padding: 10px;
+}
+
+li {
+    
+    padding: 10px;
+    margin: 5px 0;
+}
+li:hover {
+    background-color: #0c875c;
+}
+
+strong{
+    color: #d5ff06;
+}
